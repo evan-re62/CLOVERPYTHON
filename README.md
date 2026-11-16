@@ -1,7 +1,7 @@
 # CLOVERPYTHON
 **CLOVERPYTHON** est une réinterprétation entièrement fait en Python et jouable sur un terminal de commande, du jeu **Cloverpit**, un roguelike de machine à sous ou l'objectif est de rembourser une dette croissante en un nombre limité de tour.
 
-## FONCTIONNALITÉES
+## Fontionnalités
 
 - **Grille de jeu 3X5** avec tirage aléatoire selon la probabilités des symboles
 - **11 Combinaisons gagnantes** (lignes, diagonales, motifs spéciaux et **JACKPOT**)
@@ -10,14 +10,14 @@
 - **Effets sonores intégrés (du jeu officiel)** via la bibliothèque `pygame`
 
 
-## PRÉREQUIS
+## Prérequis
 
 1. **Python 3** installé sur votre machine.
 2. Installer la dépendance `pygame` :
    ```bash
    pip install pygame
 
-## 🛠️ Installation et lancement
+## Installation et lancement
 
 1. **Récupérer le projet :**
    - Via Git :
@@ -31,5 +31,5 @@
    ```bash
    pip install pygame
 
-
+## Aperçus 
 <img width="365" height="365" alt="Capture d’écran du 2026-11-16 17-08-39" src="https://github.com/user-attachments/assets/c98fb0de-322a-4e3f-9e81-235ef3242dde" />
