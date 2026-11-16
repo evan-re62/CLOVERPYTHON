@@ -1,9 +1,9 @@
 # CLOVERPYTHON
-**CLOVERPYTHON** est une réinterprétation entièrement fait en Python et jouable sur un terminal de commande, du jeu **Cloverpit**, un roguelike de machine à sous ou l'objectif est de rembourser une dette croissante en un nombre limité de tour.
+**CLOVERPYTHON** est une réinterprétation entièrement faite en Python et jouable sur un terminal de commande, du jeu **Cloverpit**, un roguelike de machine à sous où l'objectif est de rembourser une dette croissante en un nombre limité de tours.
 
-## Fontionnalités
+## Fonctionnalités
 
-- **Grille de jeu 3X5** avec tirage aléatoire selon la probabilités des symboles
+- **Grille de jeu 3X5** avec tirage aléatoire selon les probabilités des symboles
 - **11 Combinaisons gagnantes** (lignes, diagonales, motifs spéciaux et **JACKPOT**)
 - **Système économique** : dépôt d'argent avec +7 % d'intérêts par tour et gestion de dette
 - **Bonus aléatoires (Téléphone)** permettant d'améliorer les taux d'apparition, la valeur des symboles ou les multiplicateurs
