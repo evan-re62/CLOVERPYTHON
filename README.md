@@ -22,7 +22,7 @@
 1. **Récupérer le projet :**
    - Via Git :
      ```bash
-     git clone [https://github.com/evan-re62/CLOVERPYTHON.git](https://github.com/evan-re62/CLOVERPYTHON.git)
+     git clone https://github.com/evan-re62/CLOVERPYTHON.git
      cd CLOVERPYTHON 
      ```
    - Ou cliquez sur le bouton vert **Code** > **Download ZIP** en haut de cette page, puis extrayez l'archive.
