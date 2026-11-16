@@ -212,7 +212,7 @@ def telephone(nb_ticket):
             telephone(nb_ticket)
         else:
             print("Vous n'avez plus de ticket.")
-    return telephone(nb_ticket)
+    return nb_ticket
 
 
 # - - - LE JEU PRINCIPAL - - - 
