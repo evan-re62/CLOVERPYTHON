@@ -1,6 +1,8 @@
 # CLOVERPYTHON
 **CLOVERPYTHON** est une réinterprétation entièrement faite en Python et jouable sur un terminal de commande, du jeu **Cloverpit**, un roguelike de machine à sous où l'objectif est de rembourser une dette croissante en un nombre limité de tours.
 
+Le projet n'est toujours pas fini, il est en cours de développement et je n'ai malheureusement toujours pas les connaissances pour instaurer certaines fonctionnalités. En attendant, je travaille sur des programmes annexes pour développer mes compétences en programmation Python. Le projet CLOVERPYTHON est donc légèrement en pause, mais je reviendrai quand j'estimerai être capable de faire la suite. 
+
 ## Fonctionnalités
 
 - **Grille de jeu 3X5** avec tirage aléatoire selon les probabilités des symboles
@@ -30,3 +32,5 @@
 
 ## Aperçus 
 <img width="365" height="365" alt="Capture d’écran du 2026-11-16 17-08-39" src="https://github.com/user-attachments/assets/c98fb0de-322a-4e3f-9e81-235ef3242dde" />
+
+
