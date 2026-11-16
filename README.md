@@ -22,14 +22,11 @@
 1. **Récupérer le projet :**
    - Via Git :
      ```bash
-     git clone [https://github.com/evan-re62/NOM-DU-DEPOT.git](https://github.com/evan-re62/NOM-DU-DEPOT.git)
-     cd NOM-DU-DEPOT
+     git clone [https://github.com/evan-re62/CLOVERPYTHON.git](https://github.com/evan-re62/CLOVERPYTHON.git)
+     cd CLOVERPYTHON 
      ```
    - Ou cliquez sur le bouton vert **Code** > **Download ZIP** en haut de cette page, puis extrayez l'archive.
 
-2. **Installer la bibliothèque audio :**
-   ```bash
-   pip install pygame
 
 ## Aperçus 
 <img width="365" height="365" alt="Capture d’écran du 2026-11-16 17-08-39" src="https://github.com/user-attachments/assets/c98fb0de-322a-4e3f-9e81-235ef3242dde" />
